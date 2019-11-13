@@ -2,5 +2,5 @@
 #include <iosteam>
 using namespace std;
 void main(void){
-cout<<"Hello World!text1"<<endl;
+cout<<"Hello World!"<<endl;
 }
